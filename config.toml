@@ -1,4 +1,4 @@
-baseURL = "http://naughty-bohr-d56eba.netlify.com"
+baseURL = "https://naughty-bohr-d56eba.netlify.com"
 languageCode = "pt-br"
 title = "Noteworthy"
 theme = "noteworthy"
